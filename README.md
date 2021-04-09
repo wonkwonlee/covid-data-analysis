@@ -14,11 +14,10 @@
 
 1. [DACON 제공 코로나 데이터](https://dacon.io/competitions/official/235590/data/)
 2. [한국 데이터 거래소 코로나 현황 누적 데이터](https://kdx.kr/data/view/25918)
-2. [네이버 DataLabs 검색어 트랜드](https://datalab.naver.com/)
-3. [구글 유동인구 데이터](https://www.google.com/covid19/mobility/)
-4. [기상청 날씨 데이터](https://data.kma.go.kr/cmmn/main.do)
-
-
+3. [네이버 DataLabs 검색어 트랜드](https://datalab.naver.com/)
+4. [구글 유동인구 데이터](https://www.google.com/covid19/mobility/)
+5. [기상청 날씨 데이터](https://data.kma.go.kr/cmmn/main.do)
+6. [국가통계포털 데이터](https://kosis.kr/)
 
 
 
