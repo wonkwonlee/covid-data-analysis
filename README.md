@@ -25,7 +25,7 @@
 ## 데이터 시각화
 데이터 시각화 경진대회를 통해 만든 시각화 자료를 일부 첨부한다. 
 
-전체 코드는 [주피터 노트북 코드](./covid19-EDA.ipynb)에서 확인할 수 있다.
+전체 코드는 [주피터 노트북 코드](./covid19-EDA.ipynb)에서 확인할 수 있고 그 외 이미지는 [output 디렉토리](./output)에서 확인 가능하다.
 
 
 ![날짜 별 일일 확진자](https://user-images.githubusercontent.com/28593767/114116621-f8ac2800-991f-11eb-9bc5-6aa961571665.png)
@@ -39,4 +39,4 @@
 <img width="900" alt="2020지역별실업률" src="https://user-images.githubusercontent.com/28593767/114116613-f6e26480-991f-11eb-9eed-f6614967efbd.png">
 
 
-그외 이미지들은 [output 디렉토리](./output)에서 확인 가능하다.
+
