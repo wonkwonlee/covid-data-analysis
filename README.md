@@ -8,9 +8,9 @@
 
 ## 데이터 분석
 기존 DACON 데이터는 2020년 상반기까지의 데이터만 있어 분석에 미흡함이 있어 코로나 누적 확진자 공공 데이터 및 
-네이버 DataLabs나 구글 유동인구 데이터 등을 활용하여 데이터를 분석하고 인사이트를 도출하였다.
+네이버 DataLabs 및 구글 유동인구 데이터 등을 활용하여 데이터를 분석하고 인사이트를 도출하였다.
 
-완성된 코드는 [주피터 노트북](./covid19-EDA.ipynb)으로 작성되었다.
+완성된 코드는 [주피터 노트북](./covid19-EDA.ipynb)으로 작성되었고 [최종 제출 파일](output/COVID19-EDA-final.pdf)은 PDF로 작성되었다.
 
 1. [DACON 제공 코로나 데이터](https://dacon.io/competitions/official/235590/data/)
 2. [한국 데이터 거래소 코로나 현황 누적 데이터](https://kdx.kr/data/view/25918)
