@@ -1,4 +1,5 @@
-# K-Digital Training 코로나 데이터 시각화 AI 경진대회
+# COVID-19 Data Visualization
+## 코로나 데이터 시각화
 
 2021.04.02부터 2021.04.09까지 진행된 멋쟁이사자처럼 코로나 데이터 시각화 경진대회
 
@@ -19,22 +20,18 @@
 6. [국가통계포털 데이터](https://kosis.kr/)
 
 
-
 ## 데이터 시각화
 데이터 시각화 경진대회를 통해 만든 시각화 자료를 일부 첨부한다. 
 
-전체 코드는 [주피터 노트북 코드](./covid19-EDA.ipynb)에서 확인할 수 있고 그 외 이미지는 [output 디렉토리](./output)에서 확인 가능하다.
+전체 코드는 [주피터 노트북 코드](./covid19-EDA.ipynb)에서 확인할 수 있고 그 외 이미지는 [output](./output)에서 확인 가능하다.
 
-
-![날짜 별 일일 확진자](https://user-images.githubusercontent.com/28593767/114116621-f8ac2800-991f-11eb-9bc5-6aa961571665.png)
-![날짜 별 누적 확진자](https://user-images.githubusercontent.com/28593767/114116625-f944be80-991f-11eb-9dfc-960bac9d4061.png)
-![일 별 날씨와 유동인구 수](https://user-images.githubusercontent.com/28593767/114116626-f944be80-991f-11eb-950d-2cfb79a757b2.png)
-![일 별 날씨와 유동인구 수와 코로나 확진자 수](https://user-images.githubusercontent.com/28593767/114116629-fa75eb80-991f-11eb-9cd4-ed02f00c6620.png)
-![전체 카테고리별 검색어 트랜드](https://user-images.githubusercontent.com/28593767/114116630-fb0e8200-991f-11eb-8aaa-b2357ba03e58.png)
-![국내여행 검색어 트랜드](https://user-images.githubusercontent.com/28593767/114116919-86881300-9920-11eb-8198-a6c5028f38ac.png)
-
-<img width="900" alt="2019지역별실업률" src="https://user-images.githubusercontent.com/28593767/114116610-f3e77400-991f-11eb-858f-e7e64b609113.png">
-<img width="900" alt="2020지역별실업률" src="https://user-images.githubusercontent.com/28593767/114116613-f6e26480-991f-11eb-9eed-f6614967efbd.png">
-
-
+![날짜 별 일일 확진자](output/daily_cases.png)
+![날짜 별 누적 확진자](output/cumulative_cases.png)
+![일 별 날씨와 유동인구 수](output/weather_mobility.png)
+![일 별 날씨와 유동인구 수와 코로나 확진자 수](output/weather_mobility_cases.png)
+![전체 카테고리 별 검색어 트랜드](output/searching_trends.png)
+![국내여행 검색어 트랜드](output/searching_trends/01_국내여행.png)
+![해외여행 검색어 트렌드](output/searching_trends/02_해외여행.png)
+![2019년 지역 별 실업률](output/unemployment_rate_2019.png)
+![2020년 지역 별 실업률](output/unemployment_rate_2020.png)
 
